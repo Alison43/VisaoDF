@@ -451,3 +451,46 @@ p {
   align-items: center;
   justify-content: center;
 }
+
+.search-sidebar {
+  position: fixed;
+  top: 0;
+  right: -400px; /* fora da tela */
+  width: 230px;
+  height: 100%;
+  background-color: #fff;
+  box-shadow: -2px 0 8px rgba(0, 0, 0, 0.2);
+  z-index: 1001;
+  padding: 20px;
+  transition: right 0.3s ease;
+  overflow-y: auto;
+}
+
+.search-sidebar.open {
+  right: 0; /* mostra a barra */
+}
+
+.search-sidebar h2 {
+  margin-bottom: 10px;
+}
+
+.search-sidebar input {
+  width: 90%;
+  padding: 10px;
+  margin-block: 20px;
+  margin-bottom: 10px;
+}
+
+.search-sidebar button {
+  padding: 10px;
+  width: 100%;
+  margin-top: 15px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.search-sidebar button:hover {
+  background-color: #0056b3;
+}

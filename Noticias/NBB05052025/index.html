@@ -32,7 +32,7 @@
         </div>
         <div class="fill">
             <div class="right">
-                <span class="icon">&#128276;</span> <!-- ícone sino -->
+                <span class="icon">🔍</span> <!-- ícone sino -->
                 </div>     
         </div>
     </header>
@@ -45,6 +45,14 @@
             <li><a href="/Categorias/Educacao">Educação</a></li>
             <li><a href="/Categorias/Cultura">Cultura</a></li>
         </ul>
+    </aside>
+
+    <aside class="search-sidebar" id="searchSidebar">
+      <form id="searchForm" onsubmit="handleSearch(event)">
+        <h2>Pesquisar Notícias</h2>
+        <input type="text" id="searchInput" placeholder="Digite sua busca..." required />
+        <button type="submit">Pesquisar</button>
+      </form>
     </aside>
 
     <div class="overlay" id="overlay"></div>
