@@ -33,6 +33,15 @@ overlay.addEventListener('click', () => {
 
 const noticias = [
   {
+    title: "Funn Festival 2025: O Maior Festival de Inverno do Brasil Retorna a Brasília com Experiências Inesquecíveis",
+    href: "/Noticias/FunnFestival2025",
+    categoria: "Cultura",
+    img: "/assets/1-Fun.jpeg",
+    alt: "Funn Festival 2025",
+    resumo: "O Funn Festival 2025 apresenta um line-up eclético, reunindo artistas de diversos gêneros musicais para agradar a todos os gostos",
+    data: "Por: Ludmilla Soares - 22/05/2025"
+  },
+  {
     title: "NBB: Sob pressão, Brasília vence São Paulo e força jogo 4 nos playoffs do NBB 25",
     href: "/Noticias/NBB05052025",
     categoria: "Esportes",

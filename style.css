@@ -130,9 +130,9 @@ display: block;
   }
   
   .destaque img {
-    width: 100%;
-    max-width: 420px;
-    height: 100%;
+    width: 50%;
+    max-width: 320px;
+    height: 50%;
     object-fit: cover;
   }
   
