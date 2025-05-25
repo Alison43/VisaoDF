@@ -494,3 +494,9 @@ p {
 .search-sidebar button:hover {
   background-color: #0056b3;
 }
+
+
+.ght{
+  font-size: 12px;
+  color: rgb(71, 71, 71);
+}

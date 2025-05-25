@@ -76,8 +76,18 @@ const noticias = [
     alt: "Professora ENEM",
     resumo: "Professora brasiliense compartilha estratégias para ensinar redação no ENEM",
     data: "Por: Ludmilla Soares - 29/04/2025"
+  },
+  {
+    title: "\"Homem com H\" retrata trajetória de Ney Matogrosso em cinebiografia ousada e sensorial",
+    href: "/Noticias/HomemComH",
+    categoria: "Cultura",
+    img: "/assets/1-HcomH.jpeg",
+    alt: "HomemComH",
+    resumo: "Estreou no dia 1º de maio o filme “Homem com H”, que mostra a vida do cantor Ney Matogrosso.",
+    data: "Por: Danielle Guirra - 25/05/2025"
   }
 ];
+
 
 if (hamburger && overlay && sidebar) {
   hamburger.addEventListener('click', () => {
