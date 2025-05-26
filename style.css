@@ -417,7 +417,7 @@ p {
   padding: 0 15px;
 }
 
-.imagem-noticia img {
+.imagem-noticia img, video{
   width: 100%;
   height: auto;
   max-width: 500px;

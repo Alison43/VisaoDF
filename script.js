@@ -85,6 +85,69 @@ const noticias = [
     alt: "HomemComH",
     resumo: "Estreou no dia 1º de maio o filme “Homem com H”, que mostra a vida do cantor Ney Matogrosso.",
     data: "Por: Danielle Guirra - 25/05/2025"
+  },
+  {
+    title: "CPBR17: A maior edição da Campus",
+    href: "/Noticias/CampusParty",
+    categoria: "Tecnologia",
+    img: "/assets/1-Campus.png",
+    alt: "Campus Party",
+    resumo: "Party Brasil promete transformar Brasília em epicentro da inovação tecnológica",
+    data: "Por: Walter Moura e Silva Junior - 26/05/2025"
+  },
+  {
+    title: "Primeiro prêmio de melhor ator masculino no festival de Cannes para o Brasil",
+    href: "/Noticias/FestivaldeCanes",
+    categoria: "Cultura",
+    img: "/assets/1-FestivalCanes.png",
+    alt: "Festival de Canes",
+    resumo: "Wagner Moura conquista mais um prêmio de renome para o cinema brasileiro",
+    data: "Por: João Caetano - 26/05/2025"
+  },
+  {
+    title: "'Lilo & Stitch' (2025): o live-action que emociona, mas não alcança o espírito do original",
+    href: "/Noticias/LiloeStitch",
+    categoria: "Cultura",
+    img: "/assets/1-Filme.jpeg",
+    alt: "Lilo e Stitch",
+    resumo: "Revisitar um clássico é como mexer num álbum de família: há carinho, nostalgia e um certo receio de estragar a lembrança",
+    data: "Por: Ludmilla - 26/05/2025"
+  },
+  {
+    title: "Curso em Vídeo: como o site de Gustavo Guanabara se tornou referência em educação online gratuita no Brasil",
+    href: "/Noticias/GustavoGuanabara",
+    categoria: "Tecnologia",
+    img: "/assets/1-GustavoGuanabara.png",
+    alt: "Gustavo Guanabara",
+    resumo: "Quem é Gustavo Guanabara?",
+    data: "Por: Alison Leal - 26/05/2025"
+  },
+  {
+    title: "Super Jazz Festival transforma fins de tarde de Brasília em celebração ao jazz e à música afro-brasileira",
+    href: "/Noticias/SuperJazzFestival",
+    categoria: "Cultura",
+    img: "/assets/2-SuperJazzFestival.png",
+    alt: "Super Jazz Festival",
+    resumo: "O festival também promove a inclusão de novos artistas por meio de um edital voltado para músicos e estudantes de música",
+    data: "Por: Ludmilla - 26/05/2025"
+  },
+  {
+    title: "Educar para libertar: Rede Emancipa ajuda alunos periferia a entrarem nas universidades",
+    href: "/Noticias/EducarParaLibertar",
+    categoria: "Educação",
+    img: "/assets/1-Educar.jpeg",
+    alt: "Educar para libertar",
+    resumo: "Rede Emancipa se consolida como um dos principais movimentos de educação popular do país",
+    data: "Por: Danielle Guirra - 26/05/2025"
+  },
+  {
+    title: "A inclusão de pessoas neurodivergentes e PCD´S dentro das escolas e no mercado de trabalho",
+    href: "/Noticias/InclusaodePessoas",
+    categoria: "Educação",
+    img: "/assets/1-Inclusao.png",
+    alt: "Inclusão de Pessoas",
+    resumo: "A busca por aceitação exige não só a superação de limitações físicas ou cognitivas, mas também o enfrentamento de desconfiança, preconceito e julgamentos que ainda permeiam nestes meios.",
+    data: "Por: Hugo Rocha - 26/05/2025"
   }
 ];
 
