@@ -135,7 +135,7 @@ const noticias = [
     title: "Educar para libertar: Rede Emancipa ajuda alunos periferia a entrarem nas universidades",
     href: "/Noticias/EducarParaLibertar",
     categoria: "Educação",
-    img: "/assets/1-Educar.jpeg",
+    img: "/assets/5-Educar.jpeg",
     alt: "Educar para libertar",
     resumo: "Rede Emancipa se consolida como um dos principais movimentos de educação popular do país",
     data: "Por: Danielle Guirra - 26/05/2025"
